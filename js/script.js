@@ -1,4 +1,4 @@
-// Apuntes review 1
+// REVIEW
 // Lo he entendido mal, no es que después de poner el número empiece la cuenta atrás sino que el juego empieza y el usuario tiene 5 segundos para responder.
 
 // Este sería el ejercicio entendido bien:
